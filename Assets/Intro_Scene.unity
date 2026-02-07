@@ -2000,7 +2000,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 579012979}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1830936817
+=======
+--- !u!1 &1902914362
+>>>>>>> 6e237230755ca9b8b2edb65fdc4e4dfe5463bf0e
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2008,15 +2012,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1830936819}
   - component: {fileID: 1830936818}
   m_Layer: 0
   m_Name: Circle (3)
+=======
+  - component: {fileID: 1902914363}
+  m_Layer: 0
+  m_Name: GameObject
+>>>>>>> 6e237230755ca9b8b2edb65fdc4e4dfe5463bf0e
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!212 &1830936818
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2070,11 +2081,15 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1830936819
+=======
+--- !u!4 &1902914363
+>>>>>>> 6e237230755ca9b8b2edb65fdc4e4dfe5463bf0e
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1830936817}
   serializedVersion: 2
   m_LocalRotation: {x: -0.85150903, y: -0.22877994, z: 0.37777293, w: -0.28263018}
@@ -2252,6 +2267,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 362349938}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 89.293}
+=======
+  m_GameObject: {fileID: 1902914362}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> 6e237230755ca9b8b2edb65fdc4e4dfe5463bf0e
 --- !u!1 &2050020298
 GameObject:
   m_ObjectHideFlags: 0
@@ -2426,6 +2452,14 @@ SceneRoots:
   m_Roots:
   - {fileID: 701525172}
   - {fileID: 579012979}
+<<<<<<< HEAD
   - {fileID: 362349938}
   - {fileID: 1414406658}
   - {fileID: 1656286250}
+=======
+  - {fileID: 634030410}
+  - {fileID: 2050020300}
+  - {fileID: 449468219}
+  - {fileID: 1671207500}
+  - {fileID: 1902914363}
+>>>>>>> 6e237230755ca9b8b2edb65fdc4e4dfe5463bf0e
