@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Geo_Quest/Scenes/Scene-7.unity
     guid: 76909eaa931a68b448f442fbc2fc04c2
+  - enabled: 1
+    path: Assets/Hands-On Homework #3/Scenes/Level_2.unity
+    guid: a89d15b3846274fb7805bceb6dc4ad3f
+  - enabled: 1
+    path: Assets/Hands-On Homework #3/Scenes/HW3_Scene.unity
+    guid: f75dcdb9bf8a1cd45a73fee947bce6b7
   m_configObjects: {}
